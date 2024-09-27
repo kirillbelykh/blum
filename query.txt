@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A477909622%2C%22first_name%22%3A%22eto%20ya%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22korbyydady%22%2C%22language_code%22%3A%22ru%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=8393747384823193025&chat_type=sender&auth_date=1727424835&hash=fc313debbe07d76175d0ad8ac99624cdb7a7a648ce6bfd7ff84f651def20c79d
